@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-555555?logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-4B0082)
-![RISC-V](https://img.shields.io/badge/-RISC-V-283593?logo=riscv&logoColor=white)
 ![Vivado](https://img.shields.io/badge/-Vivado-FFB900?logo=xilinx&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-007ACC?logo=freertos&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
@@ -34,11 +33,6 @@
 ### 📊 GitHub Stats
 ![Phuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=thp-tran&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thp-tran&layout=compact&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/thp-tran/thp-tran/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
