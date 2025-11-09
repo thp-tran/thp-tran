@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Phương Trần (thp-tran)
 
-🎓 **Computer Engineering Student**   
+🎓 I am a Computer Engineering student at Ho Chi Minh University of Technology  
+💡 Interested in **hardware-software integration** 
+⚙️ Hands-on with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS**  
 📫 Contact: **phuongdn027@gmail.com**
 
 ---
