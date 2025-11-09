@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Phương Trần (thp-tran)
 
-🎓 **Embedded Systems & FPGA Developer**  
-🚀 Passionate about **RISC-V, AI Accelerators, and IoT Systems**  
-💡 Always exploring how software meets hardware  
+🎓 **Computer Engineering Student**  
+💡 Interested in **embedded systems and hardware-software integration**  
+⚙️ Hands-on with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS**  
+🚀 Exploring **real-time systems and IoT applications**  
 📫 Contact: **phuongdn027@gmail.com**
 
 ---
