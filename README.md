@@ -12,8 +12,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-555555?logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-4B0082)
-![Vivado](https://img.shields.io/badge/-Vivado-FFB900?logo=xilinx&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-007ACC?logo=freertos&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
@@ -21,12 +19,8 @@
 ---
 
 ### 🧩 Featured Projects
-- 🧠 [AI Accelerator with RISC-V on Arty Z7-20](https://github.com/thp-tran/ai-accelerator-riscv)  
-  Implementing Gemmini systolic array + Rocket SoC on FPGA for AI inference  
 - 🌐 [IoT CoreIoT Node on UNO R4 WiFi](https://github.com/thp-tran/iot-coreiot-uno-r4)  
   DHT sensor, WiFi AP/STA mode switch, and MQTT cloud integration  
-- ⚙️ [STM32 FreeRTOS System](https://github.com/thp-tran/stm32-freertos-demo)  
-  Multitasking LED & sensor control using semaphores and queues
 
 ---
 
