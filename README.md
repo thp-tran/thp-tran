@@ -19,7 +19,7 @@
 ---
 
 ### 🧩 Featured Projects
-- 🌐 [IoT CoreIoT Node on UNO R4 WiFi](https://github.com/thp-tran/iot-coreiot-uno-r4)  
+- 🌐 [IoT Sensor Hub With Web Control](https://github.com/thp-tran/IoT_Sensor_Hub_with_Web_Control)  
   DHT sensor, WiFi AP/STA mode switch, and MQTT cloud integration  
 
 ---
