@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Phương Trần (thp-tran)
 
-🎓 **Computer Engineering Student**  
-💡 Interested in **embedded systems and hardware-software integration**  
-⚙️ Hands-on with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS**  
-🚀 Exploring **real-time systems and IoT applications**  
+🎓 **Computer Engineering Student**   
 📫 Contact: **phuongdn027@gmail.com**
 
 ---
