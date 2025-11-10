@@ -1,6 +1,6 @@
 <!-- ![UniLogo](https://upload.wikimedia.org/wikipedia/commons/f/f0/HCMCUT.svg) -->
 
-<img src="pictures/bk_name_en.png" alt="GitHub Banner" width="90%" />
+<img src="bk_name_en.png" alt="GitHub Banner" width="90%" />
 
 ###
 
