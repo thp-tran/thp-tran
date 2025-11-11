@@ -25,10 +25,11 @@
 ---
 
 ### 🧩 Featured Projects
-- 🌐 [IoT Sensor Hub With Web Control](https://github.com/thp-tran/IoT_Sensor_Hub_with_Web_Control)  
-  DHT sensor, WiFi AP/STA mode switch, and MQTT cloud integration  
 - 🌐 [Inventory Management System (C++ Data Structures Project)](https://github.com/thp-tran/DSA-Project)  
   Design an Inventory Manager using XArrayList/DLinkedList data structures 
+- 🌐 [IoT Sensor Hub With Web Control](https://github.com/thp-tran/IoT_Sensor_Hub_with_Web_Control)  
+  DHT sensor, WiFi AP/STA mode switch, and MQTT cloud integration  
+
 ---
 
 ### 📊 GitHub Stats
