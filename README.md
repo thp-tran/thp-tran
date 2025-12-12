@@ -35,12 +35,6 @@ up to ÷256
 
 ---
 
-### 📊 GitHub Stats
-![Phuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=thp-tran&show_icons=true&theme=tokyonight&card_height=150)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thp-tran&layout=compact&theme=tokyonight&card_height=150)
-
----
-
 ### 🧩 Quote of the Day
 > “Hardware teaches patience, software rewards creativity.”
 
